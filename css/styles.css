@@ -55,13 +55,13 @@ a:hover {
 }
 
 .pc-img {
-    width: 25%;
+    width: 20%;
     float: left;
     margin-right: 30px;
 }
 
-.yakisoba-img {
-    width: 25%;
+.cherry-img {
+    width: 20%;
     float: right;
     margin-left: 30px;
     
@@ -72,7 +72,7 @@ a:hover {
     clear: right;
 }
 
-.yakisoba-skill-description {
+.cherry-skill-description {
     clear: left;
 }
 .top-container {
