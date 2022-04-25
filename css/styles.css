@@ -152,3 +152,33 @@ a:hover {
     text-decoration: none;
   }
 
+  @media screen and (max-width:720px) and (min-width:0px) {
+    body {margin: 0px;}
+    form {
+      width: 5vh;
+      margin-left: 0;
+      padding: 0;
+    }
+    h1 {
+        font-size: 50px;
+    }
+    h2 {
+        font-size: 25px;
+    }
+    .montain {
+      width: 100%;
+    }
+   .intro {
+       width: 80%;
+   }
+   .skill-row {
+       width: 80%;
+   }
+   .contact-message {
+       width: 80%;
+   }
+   .bottom-cloud {
+       margin-bottom: 35%;
+       padding-bottom: 10%;
+   }
+  }
